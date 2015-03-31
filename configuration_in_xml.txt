@@ -1,0 +1,2 @@
+http://stackoverflow.com/questions/4107222/can-i-inject-properties-from-maven-passwords-defined-in-settings-xml-into-my-s
+http://stackoverflow.com/questions/3035630/how-to-achieve-conditional-resource-import-in-a-spring-xml-context
